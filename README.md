@@ -1,5 +1,4 @@
 # German-Credit-Data-Analysis
-German Credit Data Analysis
 Data analysis analyze the raw data and convert it into meaningful information so that businesses can take more effective decision on their businesses and make more profit.
 Banks are making profit on the loan they gave to different applicants. But loan defaulters cause loss to their business. Giving loan is always a risky business. So, the bank takes a decision when processing a loan application. Will they give loan to this applicant or not. They consider it as a Good Risk or a Bad risk.
 Good Risk are those where the applicant is high likely to pay back the loan.
